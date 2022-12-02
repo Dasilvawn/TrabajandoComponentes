@@ -1,6 +1,6 @@
 import React from 'react'
 
-export const GenresInDb = () => {
+export const  GenresInDb = () => {
   return (
     <div className="col-lg-6 mb-4">						
 							<div className="card shadow mb-4">

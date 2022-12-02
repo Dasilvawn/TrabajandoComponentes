@@ -1,5 +1,6 @@
 import React from 'react';
-import '../images/mandalorian';
+
+import imagenFondo from '../assets/images/mandalorian.jpg'
 
 export const LastMovieInDb = () => {
   return (
