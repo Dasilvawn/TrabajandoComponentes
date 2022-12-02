@@ -32,6 +32,8 @@ function ContentRowTop(){
 
 					</div>
 				</div>
+
+			
 				{/*<!--End Content Row Top-->*/}
 
         </React.Fragment>
